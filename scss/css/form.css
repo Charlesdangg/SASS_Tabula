@@ -1,10 +1,13 @@
+#form {
+  background-color: blue;
+  width: 100px;
+  height: 100px;
+  border: 1px solid;
+}
 #form .form__content {
   display: flex;
   align-items: center;
 }
 #form .form__content .form__left {
   padding: 20px;
-}
-#form .form__content .form__right .formGroup {
-  padding: 20px 30px;
 }/*# sourceMappingURL=form.css.map */

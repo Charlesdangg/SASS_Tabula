@@ -1,14 +1,14 @@
 #form {
+  background-color: blue;
+  width: 100px;
+  height: 100px;
+  border: 1px solid;
   .form__content {
     display: flex;
     align-items: center;
     .form__left {
       padding: 20px;
     }
-    .form__right {
-      .formGroup {
-        padding: 20px 30px;
-      }
-    }
   }
 }
+
